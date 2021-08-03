@@ -11,7 +11,7 @@
 - Scripting: Bash, Powershell
 - Have used various AWS services for years and now primarily use Terraform to manage and configure them 
 - Heavy Linux user, even using it as the desktop OS on my laptop. But also regularly use and provide support for Mac OS and Windows
-- Use Docker while developing software regularly and have used Kubernetes to deploy projects  
+- Regularly use Docker while developing software and have used Kubernetes to deploy projects  
 <!---
 MaxKam/MaxKam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
