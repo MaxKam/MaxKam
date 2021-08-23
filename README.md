@@ -6,8 +6,8 @@
 - 📫 Can contact me via LinkedIn: www.linkedin.com/in/max-kam
 
 #### Languages and Tools
-- Proficient in: JavaScript, Python
-- Familiar with: C#, Go, C++
+- Proficient in: Go, Python, Javascript
+- Familiar with: C#, C++
 - Scripting: Bash, Powershell
 - Have used various AWS services for years and now primarily use Terraform to manage and configure them 
 - Heavy Linux user, even using it as the desktop OS on my laptop. But also regularly use and provide support for Mac OS and Windows
