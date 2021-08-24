@@ -2,7 +2,6 @@
 
 - :family_man_woman_boy: I'm a husband, father, coder, tech geek, and traveler :earth_americas:
 - 👀 I'm especially interested in software/infrastructure engineering, distributed systems and site reliability engineering (SRE)
-- 🌱 I’m currently learning Go 
 - 📫 Can contact me via LinkedIn: www.linkedin.com/in/max-kam
 
 #### Languages and Tools
