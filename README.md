@@ -10,7 +10,7 @@
 - Scripting: Bash, Powershell
 - Have used various AWS services for years and now primarily use Terraform to manage and configure them 
 - Heavy Linux user, even using it as the desktop OS on my laptop. But also regularly use and provide support for Mac OS and Windows
-- Regularly use Docker while developing software and have used Kubernetes to deploy projects  
+- Certified Kubernetes Administrator - [Certificate](https://www.credly.com/badges/dd53110d-b260-44be-92a4-8dce4e751564)  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxKam&count_private=true&show_icons=true&hide=stars,contribs)
 
