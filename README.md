@@ -12,8 +12,4 @@
 - Hashicorp stack: Terraform, Consul, Vault and Nomad
 - Certified Kubernetes Administrator - [Certificate](https://www.credly.com/badges/dd53110d-b260-44be-92a4-8dce4e751564)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxKam&count_private=true&show_icons=true&hide=stars,contribs)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxKam&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-
 
