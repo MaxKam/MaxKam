@@ -10,6 +10,4 @@
 - Scripting: Bash, Powershell
 - Cloud: AWS and GCP
 - Hashicorp stack: Terraform, Consul, Vault and Nomad
-- Certified Kubernetes Administrator - [Certificate](https://www.credly.com/badges/dd53110d-b260-44be-92a4-8dce4e751564)  
-
 
